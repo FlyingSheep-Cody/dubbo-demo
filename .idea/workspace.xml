@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="809dfaaa-9b7c-43c4-902e-600ba5d5238a" name="Default Changelist" comment="" />
+    <list default="true" id="809dfaaa-9b7c-43c4-902e-600ba5d5238a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/workshop/orders/src/main/java/com/workshop/orders/OrderApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/workshop/orders/src/main/java/com/workshop/orders/OrderApp.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +29,11 @@
         <entry file="file://$PROJECT_DIR$/workshop/orders/src/main/java/com/workshop/orders/OrderApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
+<<<<<<< Updated upstream
               <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+=======
+              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -61,6 +67,10 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+<<<<<<< Updated upstream
+=======
+      <pane id="Scope" />
+>>>>>>> Stashed changes
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,7 +156,10 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< Updated upstream
       <pane id="Scope" />
+=======
+>>>>>>> Stashed changes
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,7 +232,11 @@
     <entry file="file://$PROJECT_DIR$/workshop/orders/src/main/java/com/workshop/orders/OrderApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
+<<<<<<< Updated upstream
           <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+=======
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>

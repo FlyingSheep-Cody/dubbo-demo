@@ -27,7 +27,11 @@ public class OrderApp {
 	        
 		String name = productService.GetProductInfo(2);
 
+<<<<<<< Updated upstream
 		System.out.println(name + "Git hub test.");
+=======
+		System.out.println(name + "Git hub test!!");
+>>>>>>> Stashed changes
 
 		try {
 			System.in.read();
