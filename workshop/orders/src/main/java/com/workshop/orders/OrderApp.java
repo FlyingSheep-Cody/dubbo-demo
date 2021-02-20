@@ -27,7 +27,7 @@ public class OrderApp {
 	        
 		String name = productService.GetProductInfo(2);
 
-		System.out.println(name);
+		System.out.println(name + "Git hub test");
 
 		try {
 			System.in.read();
